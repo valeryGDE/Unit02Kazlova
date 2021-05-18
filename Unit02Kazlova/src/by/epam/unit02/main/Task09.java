@@ -19,6 +19,6 @@ public class Task09 {
 
 		System.out.println("F(x) = " + fx);
 		
-	}
+	}// молодец
 
 }
